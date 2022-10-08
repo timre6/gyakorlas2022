@@ -1,3 +1,3 @@
 Ez itt a gyakorló file.
 
-Változtatás után ez a 3. commit.
+Itt is változtatok.
