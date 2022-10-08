@@ -1,3 +1,6 @@
 Ez itt a gyakorló file.
 
+Oldalági változtatás...
 Itt is változtatok.
+
+Így mergelem...
